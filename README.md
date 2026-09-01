@@ -59,3 +59,5 @@ As an open source project in a rapidly evolving field, we welcome contributions 
   <a href="https://discord.gg/RbeQMu886J">Join the community</a> |
   <a href="https://docs.nebuly.com/contributions/">Contribute to the library</a>
 </p>
+
+<!-- maintained-note: keep this repo tidy -->
